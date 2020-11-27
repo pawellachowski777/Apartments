@@ -1,0 +1,17 @@
+# required libraries:
+# write python -m pip install -r requirements.txt to install all packages in your virtual environment
+
+beautifulsoup4
+urlopen
+pandas
+datetime
+
+numpy
+matplotlib
+seaborn
+xlrd
+
+scipy
+stats
+scikit-learn
+statsmodels
