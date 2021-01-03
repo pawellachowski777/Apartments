@@ -5,12 +5,13 @@ beautifulsoup4
 urlopen
 pandas
 datetime
-
+openpyxl
+pickle
+tabulate
 numpy
 matplotlib
 seaborn
 xlrd
-
 scipy
 stats
 scikit-learn
