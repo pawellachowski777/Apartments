@@ -16,3 +16,6 @@ scipy
 stats
 scikit-learn
 statsmodels
+wordcloud
+regex
+nltk
