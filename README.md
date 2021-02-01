@@ -4,4 +4,5 @@
 * Used Python 3.8
 * If you want to run it please install all packages from *requirements.txt*.  
 * My data are store in *web_scrap.xlsx*.  
-* My linear regression model is saved as *linear_model.pickle*.
+* My linear regression model is saved as *linear_model.pickle*
+* My current work is saving on branch *separated*
