@@ -1,21 +1,20 @@
+# python -m pip install -r requirements.txt
+# run the above command in the cmd prompt to install all packages, remember to change the directory to where the file is.
 # required libraries:
-# write python -m pip install -r requirements.txt to install all packages in your virtual environment
 
-beautifulsoup4
-urlopen
-pandas
-datetime
-openpyxl
-pickle
-tabulate
-numpy
-matplotlib
-seaborn
-xlrd
-scipy
-stats
-scikit-learn
-statsmodels
-wordcloud
-regex
-nltk
+beautifulsoup4 >= 4.9.3
+DateTime >= 4.3
+matplotlib >= 3.3.3
+nltk >= 3.5
+numpy >= 1.19.4
+openpyxl >= 3.0.5
+pandas >= 1.2.1
+regex >= 2020.11.13
+scikit-learn >= 0.24.1
+scipy >= 1.6
+seaborn >= 0.11.1
+stats >= 0.1.2a0
+statsmodels >= 0.12.1
+tabulate >= 0.8.7
+urlopen >= 1.0.0
+xlrd >= 2.0.1
