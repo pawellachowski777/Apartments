@@ -2,20 +2,100 @@
 # run the above command in the cmd prompt to install all packages, remember to change the directory to where *reqiurements.txt* file is.
 # required libraries:
 
-beautifulsoup4 >= 4.9.3
-DateTime >= 4.3
-import_ipynb >= 0.1.3
-matplotlib >= 3.3.3
-nltk >= 3.5
-numpy >= 1.19.4
-openpyxl >= 3.0.5
-pandas >= 1.2.1
-regex >= 2020.11.13
-scikit-learn >= 0.24.1
-scipy >= 1.6
-seaborn >= 0.11.1
-stats >= 0.1.2a0
-statsmodels >= 0.12.1
-tabulate >= 0.8.7
-urlopen >= 1.0.0
-xlrd >= 2.0.1
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
+astroid==2.4.2
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+autopep8==1.5.4
+backcall==0.2.0
+beautifulsoup4==4.9.3
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+certifi==2020.11.8
+cffi @ file:///C:/ci/cffi_1605538112425/work
+click==7.1.2
+colorama==0.4.3
+cycler==0.10.0
+DateTime==4.3
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+et-xmlfile==1.0.1
+import-ipynb==0.1.3
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipynb==0.5.1
+ipython @ file:///C:/ci/ipython_1604083276484/work
+ipython-genutils==0.2.0
+isort==5.6.1
+jdcal==1.4.1
+jedi @ file:///C:/ci/jedi_1598353661586/work
+Jinja2==2.11.2
+joblib==0.17.0
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core @ file:///C:/ci/jupyter_core_1606149073702/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+kiwisolver==1.3.1
+langdetect==1.0.8
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+matplotlib==3.3.3
+mccabe==0.6.1
+mistune==0.8.4
+nbclient @ file:///tmp/build/80754af9/nbclient_1602783176460/work
+nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
+nltk==3.5
+notebook @ file:///C:/ci/notebook_1601501643625/work
+numpy==1.19.4
+openpyxl==3.0.5
+packaging==20.4
+pandas==1.2.1
+pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
+parso==0.7.0
+patsy==0.5.1
+pickleshare==0.7.5
+Pillow==8.0.1
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pylint==2.6.0
+pyparsing==2.4.7
+pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
+python-dateutil==2.8.1
+pytz==2020.4
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.2
+qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
+QtPy==1.9.0
+regex==2020.11.13
+scikit-learn==0.24.1
+scipy==1.6.0
+seaborn==0.11.1
+Send2Trash==1.5.0
+sip==4.19.13
+six==1.15.0
+soupsieve==2.0.1
+stats==0.1.2a0
+statsmodels==0.12.1
+tabulate==0.8.7
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.1
+tornado==6.0.4
+tqdm==4.55.1
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+urlopen==1.0.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+wincertstore==0.2
+wordcloud==1.8.1
+wrapt==1.12.1
+xlrd==2.0.1
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+zope.interface==5.2.0
