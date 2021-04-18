@@ -1,5 +1,5 @@
 # python -m pip install -r requirements.txt
-# run the above command in the cmd prompt to install all packages, remember to change the directory to where the file is.
+# run the above command in the cmd prompt to install all packages, remember to change the directory to where *reqiurements.txt* file is.
 # required libraries:
 
 beautifulsoup4 >= 4.9.3
