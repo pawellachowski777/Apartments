@@ -1,7 +1,6 @@
 # Apartments price prediction project
 
 ## Code
-* All code and comments are placed in *python* directory
 * code is saved as *.ipynb* file, so it is recommended to run it through Jupyter Notebook
 * comments are written in Polish.
 
@@ -13,8 +12,8 @@ To see more details on how they were created please see related files (they are 
 * saved as *.xlsx* file
 
 ## Pickle
-* Important objects are placed in *pickle* directory 
-* saved as *.pickle* file, to have easy access to them
+* Important objects are placed in *pickle* directory
+* they are saved as *.pickle* file, to have easy access to them
 
 ## Versions
 * All used packages and them versions are listed in *requirements.txt* file
